@@ -95,14 +95,23 @@ Then, open the URL shown in your terminal (usually http://127.0.0.1:5000).
 
 ## 🖼️ Screenshots
 
-1. Homepage  
-2. Our Services  
-3. Crop Recommendation Input  
-4. Recommended Crop Output  
-5. Disease Detection Upload  
-6. Diagnosis and Treatment Info  
+**1. Homepage**  
+![Homepage](./screenshots/1.png)
 
-(Place images in a `/screenshots` folder and link them here.)
+**2. Our Services**  
+![Our Services](./screenshots/2.png)
+
+**3. Crop Recommendation Input**  
+![Crop Recommendation Input](./screenshots/3.png)
+
+**4. Recommended Crop Output**  
+![Recommended Crop Output](./screenshots/4.png)
+
+**5. Disease Detection Upload**  
+![Disease Detection Upload](./screenshots/5.png)
+
+**6. Diagnosis and Treatment Info**  
+![Diagnosis and Treatment Info](./screenshots/6.png)
 
 ---
 
