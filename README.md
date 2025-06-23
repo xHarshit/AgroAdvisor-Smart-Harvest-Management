@@ -71,7 +71,7 @@ The system detects:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AgroAdvisor.git
+git clone https://github.com/xHarshit/AgroAdvisor.git
 cd AgroAdvisor
 ```
 
